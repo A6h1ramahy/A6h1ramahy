@@ -124,7 +124,7 @@ Scalable Web Applications
 
 🎓 MRD Merit Scholarship Recipient
 
-📚 CGPA: 9.44
+📚 CGPA: 9.37
 
 ⭐ PUC Score: 97.83%
 
