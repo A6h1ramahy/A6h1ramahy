@@ -3,7 +3,7 @@
 ### 🚀 Computer Science Student • Full Stack Developer • AI/ML Enthusiast • Problem Solver
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+there+👋+I'm+Abhirama+H+Y;Computer+Science+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Projects+That+Solve+Real+Problems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=$+whoami;Abhirama+H+Y;Full+Stack+Developer;AI+%26+Data+Science+Enthusiast" />
 </p>
 
 
