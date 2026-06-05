@@ -27,7 +27,7 @@
 
 ⚡ Love turning ideas into real-world products
 
-🎵 Singer | 🏸 Badminton Player | 🏓 Table Tennis Player
+🎵 Indian Classical Singer & Harmonium Player | 🏸 Badminton Player | 🏓 Table Tennis Player
 
 </td>
 
@@ -182,7 +182,7 @@ Scalable Web Applications
 
 ## ⚡ Fun Facts
 
-🎵 I enjoy both Carnatic and Hindustani music.
+🎵 I am passionate about Indian classical music, performing vocals and playing the harmonium.
 
 🏸 Sports have taught me consistency and discipline.
 
