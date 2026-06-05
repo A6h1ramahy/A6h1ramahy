@@ -1,15 +1,19 @@
 # Hi 👋, I'm Abhirama H Y
 
-### 🚀 Computer Science Student • Full Stack Developer • AI/ML Enthusiast • Problem Solver
+### 🚀 Computer Science Student • Backend Developer • AI & Data Science Enthusiast • Full Stack Developer • Problem Solver
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=$+whoami;Abhirama+H+Y;Full+Stack+Developer;AI+%26+Data+Science+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00FF41&center=true&vCenter=true&width=950&lines=$+whoami;Abhirama+H+Y;$+role;Full+Stack+%26+Backend+Developer;$+interests;AI+%7C+Data+Science+%7C+System+Design;$+status;Building+Projects+That+Solve+Real+Problems" />
 </p>
 
 
 ---
 
 ## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="65%">
 
 🎓 B.Tech Computer Science Student at PES University
 
@@ -25,17 +29,27 @@
 
 🎵 Singer | 🏸 Badminton Player | 🏓 Table Tennis Player
 
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🧠 Current Focus
 
 ```text
 Data Structures & Algorithms
-Machine Learning
-Full Stack Development
 Backend Engineering
+Machine Learning
+Data Science
 System Design
-Real-World Problem Solving
+Scalable Web Applications
 ```
 
 ---
@@ -101,59 +115,6 @@ Real-World Problem Solving
 </tr>
 </table>
 
-
----
-
-## 🚀 Featured Projects
-
-### 🍽️ Mess & Canteen Booking System
-
-QR-based ordering and management platform for students and canteen staff.
-
-**Tech Used**
-
-* React
-* Node.js
-* Express.js
-* MongoDB
-* JWT Authentication
-* QR Verification
-* TailwindCSS
-
----
-
-### 📈 Stock Trend Prediction
-
-Machine Learning based stock analysis and forecasting system using technical indicators and historical market data.
-
-**Tech Used**
-
-* Python
-* TensorFlow
-* Scikit-Learn
-* Pandas
-* NumPy
-
----
-
-### 🏥 AI Healthcare Platform
-
-AI-powered healthcare solution for patient risk prediction and clinical decision support.
-
-**Features**
-
-* Heart Risk Prediction
-* Patient Risk Assessment
-* Clinical Recommendation System
-* Interactive Dashboard
-
-**Tech Used**
-
-* Python
-* TensorFlow
-* XGBoost
-* Flask
-* React
 
 ---
 
@@ -246,7 +207,7 @@ AI-powered healthcare solution for patient risk prediction and clinical decision
 
 ## 🤝 Connect With Me
 
-📧 Email: [abhiramhy@gmail.com](mailto:abhiramhy@gmail.com)
+📧 Email: [abhiramhy836@gmail.com](mailto:abhiramhy836@gmail.com)
 
 💼 LinkedIn: [www.linkedin.com/in/abhirama-h-y](http://www.linkedin.com/in/abhirama-h-y)
 
