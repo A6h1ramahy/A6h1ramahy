@@ -33,7 +33,7 @@
 
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hkbjVqcjNoOXd4bm51c3l5dXFwNzEza2s4MmdtMWM5MTRianFxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif" width="280"/>
 
 </td>
 </tr>
