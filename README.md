@@ -152,22 +152,8 @@ Scalable Web Applications
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=A6h1ramahy&theme=tokyonight"
-    alt="Abhirama's GitHub Statistics"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=A6h1ramahy&theme=tokyonight&hide_border=true"
     alt="Abhirama's GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A6h1ramahy&theme=tokyonight"
-    alt="Abhirama's Most Used Languages"
   />
 </p>
 
