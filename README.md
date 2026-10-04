@@ -163,7 +163,7 @@ Scalable Web Applications
 
 <!-- ACTIVITY-GRAPH-START -->
 
-[![Abhirama's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A6h1ramahy&theme=tokyo-night&from=2026-09-19&to=2026-10-03)](https://github.com/A6h1ramahy)
+[![Abhirama's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A6h1ramahy&theme=tokyo-night&from=2026-09-20&to=2026-10-04)](https://github.com/A6h1ramahy)
 
 <!-- ACTIVITY-GRAPH-END -->
 
